@@ -1,4 +1,4 @@
-# This Repo contains the triblio scripts used on the toptal.com
+# This Repo contains the triblio scripts used on toptal.com
 
 ### firm_track.js
 This is the "demo script" that was first installed that initially caused the problem
